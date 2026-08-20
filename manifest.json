@@ -1,0 +1,17 @@
+{
+  "id": "bag_pc_999",
+  "name": "Bag and PC 999 Item Slots",
+  "version": "1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": "",
+  "github": "",
+  "priority": 100,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Bag and PC Storage both hold 999 Items."
+}
